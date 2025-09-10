@@ -366,11 +366,6 @@ while ($counter <= 20) {
   3. Добавьте выбор длины пароля
 
 <details>
-<summary>Показать решение</summary>
-
-</details>
-
-<details>
 <summary>Показать решение для веб-версии</summary>
 
 ```php
