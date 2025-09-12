@@ -19,9 +19,9 @@ function eighteen($bday): bool {
     if (date("Y") - $bday >= 18){
         return True;
      }
-    else{ 
+    
         return false; 
-     }
+     
 }; 
 
 print_r (date("Y") - $bday); 
